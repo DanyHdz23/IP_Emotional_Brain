@@ -17,9 +17,11 @@ En resumen, I:P Emotional Brain busca explorar las posibilidades que ofrece el I
 # Materiales a utilizar
 Herramientas para la construcción de este proyecto
 ## Hardware
-    - [Raspberry Pi 4B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
-    - [ESP32](https://www.espressif.com/en/products/socs/esp32)
-    - [ESP32 CAM](https://programarfacil.com/esp32/esp32-cam/)
+- [Raspberry Pi 4B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
+
+- [ESP32](https://www.espressif.com/en/products/socs/esp32)
+
+- [ESP32 CAM](https://programarfacil.com/esp32/esp32-cam/)
 ## Componentes Electrónicos
 
 ## Software
