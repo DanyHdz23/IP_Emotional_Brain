@@ -1,5 +1,5 @@
 ''' Autor: Daniel Hernández Hernández
-
+Este codigo es una parte del proyecto I:P Emotional Brain
 Analisis de imagenes capturadas por ESP32 CAM, publicadas en MQTT y visualizacion en Node-Red.
 Las imagenes deben encontrarse en el ordenador y en la misma carpeta.'''
 
