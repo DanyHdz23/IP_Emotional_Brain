@@ -32,10 +32,24 @@ Herramientas para la construcción de este proyecto
 - [Resistencia](https://www.fluke.com/es-mx/informacion/blog/electrica/que-es-la-resistencia)
 
 ## Software
-- [Raspberry Pi OS]()
-- [Python 3]()
-- [Thonny]()
-- [Visual Studio Code]()
-- [Node-Red]()
-- [MQTT]()
-- [Arduino]()
+- [Raspberry Pi OS](https://www.raspberrypi.com/software/)
+- [Python 3](https://www.python.org/)
+- [Thonny](https://thonny.org/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Node-Red](https://nodered.org/)
+- [MQTT](https://mqtt.org/)
+- [Arduino](https://www.arduino.cc/en/software)
+
+## Referencia
+- [Codigo IoT](https://edu.codigoiot.com/)
+- [MQTT-PYTHON](https://www.google.com/search?q=mqtt+python&source=lmns&tbm=vid&bih=608&biw=1210&client=ubuntu-sn&hs=yvh&hl=es-419&sa=X&ved=2ahUKEwjvzPKZz9qAAxVDPN4AHZRVAnEQ0pQJKAF6BAgBEAQ#fpstate=ive&vld=cid:8083a0d8,vid:T362losqJys)
+- [ESP32-Micropython](https://youtu.be/BkXWInr-KWM)
+
+## Esquema
+![]()
+
+## Creditos
+- ### Desarrollado por:
+    - [Daniel Hernández Hernández](https://github.com/DanyHdz23)
+- ### Colaboración:
+    - [Sofia Magdalena Leon Astudillo](https://github.com/SofiaLeon22)  
