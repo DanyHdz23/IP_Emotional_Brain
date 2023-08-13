@@ -13,3 +13,13 @@ En este proyecto, nos enfocaremos en el desarrollo de un dispositivo llamado "I:
 La capacidad del dispositivo para comprender y responder a las emociones de los usuarios puede permitir una interacción más intuitiva y empática entre las personas y la tecnología.
 
 En resumen, I:P Emotional Brain busca explorar las posibilidades que ofrece el IoT en el ámbito de las emociones humanas; a través del uso de dispositivos inteligentes, sensores y análisis de datos, pretende crear un entorno más humano y empático en el que la tecnología pueda entender y responder a nuestras emociones de manera auténtica y significativa.
+
+# Materiales a utilizar
+Herramientas para la construcción de este proyecto
+## Hardware
+    - [Raspberry Pi 4B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
+    - [ESP32](https://www.espressif.com/en/products/socs/esp32)
+    - [ESP32 CAM](https://programarfacil.com/esp32/esp32-cam/)
+## Componentes Electrónicos
+
+## Software
