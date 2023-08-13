@@ -35,6 +35,7 @@ Herramientas para la construcción de este proyecto
 - [Raspberry Pi OS]()
 - [Python 3]()
 - [Thonny]()
-- [Node Red]()
+- [Visual Studio Code]()
+- [Node-Red]()
 - [MQTT]()
 - [Arduino]()
