@@ -18,10 +18,23 @@ En resumen, I:P Emotional Brain busca explorar las posibilidades que ofrece el I
 Herramientas para la construcción de este proyecto
 ## Hardware
 - [Raspberry Pi 4B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
-
 - [ESP32](https://www.espressif.com/en/products/socs/esp32)
-
 - [ESP32 CAM](https://programarfacil.com/esp32/esp32-cam/)
+- [FTDI TTL](https://tresdprinttech.com/mx/interfaces-y-programadores/323-ftdi232-convertidor-serie-usb-a-ttl-ft232rl-7503040289587.html)
+- [Micro SD 32GB](https://muytecnologicos.com/diccionario-tecnologico/tarjeta-microsd)
 ## Componentes Electrónicos
+- [Sensor DHT11](https://components101.com/sensors/dht11-temperature-sensor)
+- [Servo Motor sg90](https://components101.com/motors/servo-motor-basics-pinout-datasheet)
+- [Protoboard](https://blog.330ohms.com/2016/03/02/protoboards/)
+- [LDR](https://www.mecatronicalatam.com/es/tutoriales/sensores/sensor-de-luz/ldr/)
+- [LED](https://www.ledtecnologia.com/que-es-un-led/)
+- [Jumpers](https://es.wikipedia.org/wiki/Jumper_(inform%C3%A1tica))
+- [Resistencia](https://www.fluke.com/es-mx/informacion/blog/electrica/que-es-la-resistencia)
 
 ## Software
+- [Raspberry Pi OS]()
+- [Python 3]()
+- [Thonny]()
+- [Node Red]()
+- [MQTT]()
+- [Arduino]()
