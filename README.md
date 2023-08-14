@@ -55,5 +55,4 @@ Herramientas para la construcción de este proyecto
 ## Creditos
 - ### Desarrollado por:
     - [Daniel Hernández Hernández](https://github.com/DanyHdz23)
-- ### Colaboración:
     - [Sofia Magdalena Leon Astudillo](https://github.com/SofiaLeon22)  
