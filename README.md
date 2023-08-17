@@ -46,12 +46,12 @@ Herramientas para la construcción de este proyecto
 - [ESP32-Micropython](https://youtu.be/BkXWInr-KWM)
 
 ## Esquema
-![](https://github.com/DanyHdz23/IP_Emotional_Brain/blob/main/Imagenes/WhatsApp%20Image%202023-08-14%20at%2000.57.15.jpeg)
-![](https://github.com/DanyHdz23/IP_Emotional_Brain/blob/main/Imagenes/WhatsApp%20Image%202023-08-14%20at%2000.59.10.jpeg)
+![](https://github.com/DanyHdz23/IP_Emotional_Brain/blob/main/Imagenes/WhatsApp%20Image%202023-08-15%20at%2000.20.03.jpeg)
+![](https://github.com/DanyHdz23/IP_Emotional_Brain/blob/main/Imagenes/WhatsApp%20Image%202023-08-15%20at%2000.20.03%20(1).jpeg)
 ## Producto final
-![](https://github.com/DanyHdz23/IP_Emotional_Brain/blob/main/Imagenes/WhatsApp%20Image%202023-08-14%20at%2001.02.24.jpeg)
-![](https://github.com/DanyHdz23/IP_Emotional_Brain/blob/main/Imagenes/WhatsApp%20Image%202023-08-14%20at%2001.02.23.jpeg)
-
+![](https://github.com/DanyHdz23/IP_Emotional_Brain/blob/main/Imagenes/WhatsApp%20Image%202023-08-15%20at%2020.33.21.jpeg)
+![](https://github.com/DanyHdz23/IP_Emotional_Brain/blob/main/Imagenes/WhatsApp%20Image%202023-08-15%20at%2000.20.03.jpeg)
+![](https://github.com/DanyHdz23/IP_Emotional_Brain/blob/main/Imagenes/WhatsApp%20Image%202023-08-15%20at%2020.33.21%20(1).jpeg)
 ## Creditos
 - ### Desarrollado por:
     - [Daniel Hernández Hernández](https://github.com/DanyHdz23)
