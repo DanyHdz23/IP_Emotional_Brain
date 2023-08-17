@@ -50,7 +50,7 @@ Herramientas para la construcción de este proyecto
 ![](https://github.com/DanyHdz23/IP_Emotional_Brain/blob/main/Imagenes/WhatsApp%20Image%202023-08-15%20at%2000.20.03%20(1).jpeg)
 ## Producto final
 ![](https://github.com/DanyHdz23/IP_Emotional_Brain/blob/main/Imagenes/WhatsApp%20Image%202023-08-15%20at%2020.33.21.jpeg)
-![](https://github.com/DanyHdz23/IP_Emotional_Brain/blob/main/Imagenes/WhatsApp%20Image%202023-08-15%20at%2000.20.03.jpeg)
+![](https://github.com/DanyHdz23/IP_Emotional_Brain/blob/main/Imagenes/WhatsApp%20Image%202023-08-15%20at%2019.43.52.jpeg)
 ![](https://github.com/DanyHdz23/IP_Emotional_Brain/blob/main/Imagenes/WhatsApp%20Image%202023-08-15%20at%2020.33.21%20(1).jpeg)
 ## Creditos
 - ### Desarrollado por:
